@@ -10,7 +10,7 @@
 <body>
     <main>
    
-    <?php include("../model/visualizardoc.php"); ?>
+    <?php include("../model/visualizardoc.html"); ?>
         
     </main><br><br>
     <footer class="footer">
